@@ -1,7 +1,7 @@
-# Budget – Web-App fürs iPhone
+# Budget – Download-Seite und iPhone-Web-App
 
-Einfacher Budget-Tracker mit Kreisdiagramm, Verlauf, Dauerbeträgen im Nothing-Design.
+- **Download-Seite:** https://geigerelias5-cpu.github.io/Budget-web/
+- **iPhone-Web-App:** https://geigerelias5-cpu.github.io/Budget-web/app/ – in Safari öffnen → Teilen → „Zum Home-Bildschirm“
+- **Android-App (APK):** https://github.com/geigerelias5-cpu/Budget_apk/releases/latest/download/Budget.apk
 
-**Installieren:** Seite in **Safari** öffnen → Teilen-Symbol → **„Zum Home-Bildschirm“**.
-
-Alle Daten bleiben nur auf deinem Gerät (im Speicher der Web-App). Nichts wird hochgeladen.
+Alle Daten bleiben nur auf dem Gerät. Nichts wird hochgeladen.
